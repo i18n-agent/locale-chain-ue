@@ -1,0 +1,18 @@
+# UE build artifacts
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+*.sln
+*.xcworkspace
+*.xcodeproj
+
+# OS
+.DS_Store
+Thumbs.db
