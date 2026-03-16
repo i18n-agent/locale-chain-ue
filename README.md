@@ -344,6 +344,12 @@ UE Marketplace submission requires a separate manual review process with Epic Ga
 - PRs welcome, especially for adding new locale fallback chains.
 - See [BUILD.md](BUILD.md) for local build and testing instructions.
 
+## Example
+
+A minimal Unreal Engine 5.3+ example project is included in the [`example/`](./example/) directory. It demonstrates the locale chain resolving keys with fallback from `pt-BR -> pt -> en`. Open the project in Unreal Editor and check the Output Log for resolved translations.
+
+See [`example/README.md`](./example/README.md) for full setup instructions.
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) file.

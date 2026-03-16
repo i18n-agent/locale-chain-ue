@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "Minimal example project for the LocaleChain plugin",
+	"Modules": [
+		{
+			"Name": "Example",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "LocaleChain",
+			"Enabled": true
+		}
+	]
+}
